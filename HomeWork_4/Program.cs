@@ -12,4 +12,3 @@ while (M <= N)
     else 
     M = M +=1;
 }
-  
