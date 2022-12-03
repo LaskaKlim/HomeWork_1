@@ -3,12 +3,13 @@
 int N = Convert.ToInt32(Console.ReadLine());
 int M = 1;
 
-while (M <= N);
+while (M <= N)
 {
-    if (M % 2 == 0)
+  if (M % 2 == 0)
     {
-        Console.Write(M++);
-    }
-
+        Console.WriteLine(M++);
+    }  
+    else 
+    M = M +=1;
 }
   
