@@ -4,7 +4,7 @@ int NA = Convert.ToInt32 (Console.ReadLine());
 
 if (NA % 2 == 0)
 {
-    Console.Write(" Да! ");
+    Console.Write("Да!");
 }
 else
- Console.Write(" Нет! ");
+ Console.Write("Нет!");

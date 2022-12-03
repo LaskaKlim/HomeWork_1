@@ -16,10 +16,10 @@ int numberA = Convert.ToInt32 (Console.ReadLine());
 
  if (numberA == numberB * numberB)
  {
-    Console.Write("Да");
+    Console.Write("Да!");
  }
 else
 {
-  Console.Write ("Нет");  
+  Console.Write ("Нет!");  
 }
 

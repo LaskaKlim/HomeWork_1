@@ -9,6 +9,6 @@ while (M <= N)
     {
         Console.WriteLine(M++);
     }  
-    else 
+   else 
     M = M +=1;
 }

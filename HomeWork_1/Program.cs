@@ -19,5 +19,5 @@ else
     max = numberB;
     min = numberA;
 }
-Console.WriteLine ( "max " + max);
-Console.WriteLine ("min " + min);
+Console.WriteLine ( " max " + max);
+Console.WriteLine (" min " + min);
