@@ -6,20 +6,20 @@
 
 //Задача 1:
 
-//  Console.Write("Введите первое число ");
+ Console.Write("Введите первое число ");
 
-// int numberA = Convert.ToInt32 (Console.ReadLine());
+int numberA = Convert.ToInt32 (Console.ReadLine());
  
-//  Console.Write ("Введите второе число ");
+ Console.Write ("Введите второе число ");
 
-//  int numberB = Convert.ToInt32 (Console.ReadLine());
+ int numberB = Convert.ToInt32 (Console.ReadLine());
 
-//  if (numberA == numberB * numberB)
-//  {
-//     Console.Write("Да");
-//  }
-// else
-// {
-//   Console.Write ("Нет");  
-// }
+ if (numberA == numberB * numberB)
+ {
+    Console.Write("Да");
+ }
+else
+{
+  Console.Write ("Нет");  
+}
 
