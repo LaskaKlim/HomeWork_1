@@ -15,9 +15,9 @@ if (numberA > numberB)
      min = numberB;
 } 
 else 
+{
     max = numberB;
     min = numberA;
-
-
+}
 Console.WriteLine ( "max " + max);
 Console.WriteLine ("min " + min);
